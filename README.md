@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=coazyy&color=grey">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-2/350336124360851466.png" />
+  <img src="[https://discord.c99.nl/widget/theme-2/350336124360851466.png](https://discord.c99.nl/widget/theme-4/811512130183888903.png)" />
 </p>
 <p align="center">
 Currently learning C# and C++
